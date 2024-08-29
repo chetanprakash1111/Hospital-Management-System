@@ -17,7 +17,7 @@ Hospital management involves overseeing and coordinating various aspects of heal
 Ultimately, hospital management plays a vital role in achieving organizational goals, enhancing patient satisfaction, and improving overall healthcare outcomes.
 
 <p align ="center">
-<img src="images/img1.png"/>
+<img src="img1.png"/>
 </p> 
 
 ## ER Model:
@@ -62,7 +62,7 @@ The structure of our database (in the form of an entity - relationship model) co
 The resulting diagram:
 
 <p align ="center">
-<img src="images/img2.png"/>
+<img src="img2.png"/>
 </p>
 
 ## Relational Model:
@@ -98,7 +98,7 @@ Upon converting the previously mentioned Entity - Relationship diagram into a Re
 ## Result of mapping the HOSPITAL MANAGEMENT ER schema into a relational database schema :
 
 <p align ="center">
-<img src="images/img3.png"/>
+<img src="img3.png"/>
 </p>
 
 
