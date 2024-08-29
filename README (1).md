@@ -4,6 +4,7 @@
 
 ### Contributors
 
+* Chetan Prakash           (2K21/IT/053)
 * Chirag Rana 		(2K21/IT/056)
 * Deepanshu Sharma	(2K21/IT/059)
 * Daksh Gupta              (2K21/IT/057)  
